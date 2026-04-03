@@ -1,5 +1,6 @@
 Sales Forecasting Project  
 Project Overview
+here's the colab link to it: https://colab.research.google.com/drive/1XVNBCPHzMPp0JCN82ur67I0Cl1po1aFs?usp=sharing
 
 This project focuses on forecasting sales using historical data to help businesses make informed decisions about inventory, promotions, and revenue planning. It leverages Python 🐍 and machine learning algorithms to process, analyze, and predict sales patterns. An interactive Power BI dashboard 📈 is included to visualize trends, forecasts, and key metrics.
 
